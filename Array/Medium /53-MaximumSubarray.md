@@ -18,6 +18,10 @@ The problem requires finding the maximum sum of a contiguous subarray within a g
 
 <!-- Add your space complexity here, e.g. $$O(n)$$ -->
 - **Space complexity:** O(1), as only a constant amount of extra space is used for variables.
+
+# Problem and Solution Link
+- Problem Link : [Problem Link ](https://leetcode.com/problems/maximum-subarray)
+- Solution Link : [Solution Link](https://leetcode.com/problems/maximum-subarray/submissions/1623068740 )
 # Code
 ```cpp []
 class Solution {
