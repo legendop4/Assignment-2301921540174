@@ -1,7 +1,7 @@
 # Palindrome Partitioning II
 
 **Problem Link**: [132. Palindrome Partitioning II - LeetCode](https://leetcode.com/problems/palindrome-partitioning-ii/)  
-**Solution Link**: [Your Submission](https://leetcode.com/problems/palindrome-partitioning-ii/submissions/1628651444)
+**Solution Link**: [My Submission](https://leetcode.com/problems/palindrome-partitioning-ii/submissions/1628651444)
 
 ## Intuition
 The solution calculates the minimum cuts needed to partition a string into palindromic substrings using dynamic programming:
