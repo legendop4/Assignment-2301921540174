@@ -1,7 +1,7 @@
 # Integer to English Words
 
 **Problem Link**: [273. Integer to English Words - LeetCode](https://leetcode.com/problems/integer-to-english-words/)  
-**Solution Link**: [Your Submission](https://leetcode.com/problems/integer-to-english-words/submissions/1629497424)
+**Solution Link**: [My Submission](https://leetcode.com/problems/integer-to-english-words/submissions/1629497424)
 
 ## Intuition
 The solution converts a non-negative integer to its English words representation by:
