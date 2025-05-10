@@ -1,7 +1,7 @@
 # Valid Number
 
 **Problem Link**: [65. Valid Number - LeetCode](https://leetcode.com/problems/valid-number/)  
-**Solution Link**: [Your Submission](https://leetcode.com/problems/valid-number/submissions/1627995748)
+**Solution Link**: [My Submission](https://leetcode.com/problems/valid-number/submissions/1627995748)
 
 ## Intuition
 The solution validates if a string represents a number by systematically checking:
