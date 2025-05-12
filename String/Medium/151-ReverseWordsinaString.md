@@ -1,7 +1,7 @@
 # Reverse Words in a String
 
 **Problem Link**: [151. Reverse Words in a String - LeetCode](https://leetcode.com/problems/reverse-words-in-a-string/)  
-**Solution Link**: [Your Submission](https://leetcode.com/problems/reverse-words-in-a-string/submissions/1627199442)
+**Solution Link**: [My Submission](https://leetcode.com/problems/reverse-words-in-a-string/submissions/1627199442)
 
 ## Intuition
 The solution reverses the order of words in a string by:
