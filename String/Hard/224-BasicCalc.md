@@ -1,7 +1,7 @@
 # Basic Calculator
 
 **Problem Link**: [224. Basic Calculator - LeetCode](https://leetcode.com/problems/basic-calculator/)  
-**Solution Link**: [Your Submission](https://leetcode.com/problems/basic-calculator/submissions/1631021214)
+**Solution Link**: [My Submission](https://leetcode.com/problems/basic-calculator/submissions/1631021214)
 
 ## Intuition
 The solution evaluates mathematical expressions containing `+`, `-`, parentheses, and non-negative integers by:
