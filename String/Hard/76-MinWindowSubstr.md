@@ -1,7 +1,7 @@
 # Minimum Window Substring
 
 **Problem Link**: [76. Minimum Window Substring - LeetCode](https://leetcode.com/problems/minimum-window-substring/)  
-**Solution Link**: [Your Submission](https://leetcode.com/problems/minimum-window-substring/submissions/1631270867)
+**Solution Link**: [My Submission](https://leetcode.com/problems/minimum-window-substring/submissions/1631270867)
 
 ## Intuition
 The solution finds the smallest substring in `s` that contains all characters of `t` using a sliding window approach:
