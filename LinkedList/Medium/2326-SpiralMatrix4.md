@@ -1,7 +1,7 @@
 # Spiral Matrix IV
 
 **Problem Link**: [2326. Spiral Matrix IV - LeetCode](https://leetcode.com/problems/spiral-matrix-iv/)  
-**Solution Link**: [Your Submission](https://leetcode.com/problems/spiral-matrix-iv/submissions/1633067033)
+**Solution Link**: [My Submission](https://leetcode.com/problems/spiral-matrix-iv/submissions/1633067033)
 
 ## Intuition
 The solution fills an m x n matrix in spiral order with values from a linked list by:
