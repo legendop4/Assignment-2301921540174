@@ -1,7 +1,7 @@
 # Find Unique Binary String
 
 **Problem Link**: [1980. Find Unique Binary String - LeetCode](https://leetcode.com/problems/find-unique-binary-string/)  
-**Solution Link**: [Your Submission](https://leetcode.com/problems/find-unique-binary-string/submissions/1631089905)
+**Solution Link**: [My Submission](https://leetcode.com/problems/find-unique-binary-string/submissions/1631089905)
 
 ## Intuition
 The solution generates a unique binary string by exploiting the diagonalization principle:
