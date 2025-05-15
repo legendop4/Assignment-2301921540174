@@ -1,7 +1,7 @@
 # Linked List Cycle II
 
 **Problem Link**: [142. Linked List Cycle II - LeetCode](https://leetcode.com/problems/linked-list-cycle-ii/)  
-**Solution Link**: [Your Submission](https://leetcode.com/problems/linked-list-cycle-ii/submissions/1627212282)
+**Solution Link**: [My Submission](https://leetcode.com/problems/linked-list-cycle-ii/submissions/1627212282)
 
 ## Intuition
 The solution uses Floyd's Tortoise and Hare algorithm to:
