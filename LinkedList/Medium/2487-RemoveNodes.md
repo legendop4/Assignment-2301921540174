@@ -1,7 +1,7 @@
 # Remove Nodes from Linked List
 
 **Problem Link**: [2487. Remove Nodes From Linked List - LeetCode](https://leetcode.com/problems/remove-nodes-from-linked-list/)  
-**Solution Link**: [Your Submission](https://leetcode.com/problems/remove-nodes-from-linked-list/submissions/1633040849)
+**Solution Link**: [My Submission](https://leetcode.com/problems/remove-nodes-from-linked-list/submissions/1633040849)
 
 ## Intuition
 The solution removes nodes from a linked list where a node should be deleted if there exists a node with a greater value to its right by:
