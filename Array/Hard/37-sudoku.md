@@ -1,7 +1,7 @@
 # Sudoku Solver
 
 **Problem Link**: [LeetCode - Sudoku Solver](https://leetcode.com/problems/sudoku-solver/)  
-**Solution Link**: [Your Submission](https://leetcode.com/problems/sudoku-solver/submissions/1624352655)
+**Solution Link**: [My Submission](https://leetcode.com/problems/sudoku-solver/submissions/1624352655)
 
 ## Intuition
 The solution uses a **backtracking** approach to systematically try all possible valid numbers for each empty cell ('.') until the entire board is filled correctly. It leverages constraint propagation to eliminate invalid choices early.
