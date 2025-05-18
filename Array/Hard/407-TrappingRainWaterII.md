@@ -1,7 +1,7 @@
 # Trapping Rain Water II (3D Elevation Map)
 
 **Problem Link**: [Trapping Rain Water II - LeetCode](https://leetcode.com/problems/trapping-rain-water-ii/)  
-**Solution Link**: [Your Submission](https://leetcode.com/problems/trapping-rain-water-ii/submissions/1625406945)
+**Solution Link**: [My Submission](https://leetcode.com/problems/trapping-rain-water-ii/submissions/1625406945)
 
 ## Intuition
 The solution uses a **min-heap priority queue** to simulate the water trapping process from the boundaries inward, calculating how much water can be trapped at each cell based on the lowest surrounding boundary height.
