@@ -1,7 +1,7 @@
 # Minimum Length of String After Operations
 
-**Problem Link**: [1750. Minimum Length of String After Deleting Similar Ends - LeetCode](https://leetcode.com/problems/minimum-length-of-string-after-deleting-similar-ends/)  
-**Solution Link**: [My Submission](https://leetcode.com/problems/minimum-length-of-string-after-deleting-similar-ends/submissions/1627999738)
+**Problem Link**: [3223. Minimum Length of String After Operations](https://leetcode.com/problems/minimum-length-of-string-after-operations/description/)
+**Solution Link**: [My Submission](https://leetcode.com/problems/minimum-length-of-string-after-operations/submissions/1627999738)
 
 ## Intuition
 The solution attempts to calculate the minimum possible string length after operations by:
