@@ -1,6 +1,7 @@
 # Minimum Length of String After Operations
 
 **Problem Link**: [3223. Minimum Length of String After Operations](https://leetcode.com/problems/minimum-length-of-string-after-operations/description/)
+
 **Solution Link**: [My Submission](https://leetcode.com/problems/minimum-length-of-string-after-operations/submissions/1627999738)
 
 ## Intuition
