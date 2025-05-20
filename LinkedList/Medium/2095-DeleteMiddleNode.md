@@ -1,7 +1,7 @@
 # Delete the Middle Node of a Linked List
 
 **Problem Link**: [2095. Delete the Middle Node of a Linked List - LeetCode](https://leetcode.com/problems/delete-the-middle-node-of-a-linked-list/)  
-**Solution Link**: [Your Submission](https://leetcode.com/problems/delete-the-middle-node-of-a-linked-list/submissions/1627218629)
+**Solution Link**: [My Submission](https://leetcode.com/problems/delete-the-middle-node-of-a-linked-list/submissions/1627218629)
 
 ## Intuition
 The solution deletes the middle node of a linked list by:
