@@ -49,4 +49,9 @@ public:
         vector<int> container;
         while(head) {
             container.push_back(head->data);
-            head = head->
+            head = head->next;
+        }
+        int n = (int)container.size();
+        return dfs(container, 0, n);
+    }
+};
